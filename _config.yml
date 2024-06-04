@@ -116,9 +116,9 @@ author:
   location: "Seoul, Korea"
   email:
   links:
-    - label: "email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "goodafteryoondev@gmail.com"
+    #- label: "email"
+    #  icon: "fas fa-fw fa-envelope-square"
+    #  url: "goodafteryoondev@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
