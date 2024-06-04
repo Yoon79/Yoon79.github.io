@@ -82,7 +82,7 @@ google:
 # SEO Related
 google_site_verification:
 bing_site_verification:
-naver_site_verification:
+naver_site_verification: "810ced1d1ee3ae215768907914f7abccb3479d74"
 yandex_site_verification:
 baidu_site_verification:
 
@@ -219,7 +219,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Seoul
 
 # Pagination with jekyll-paginate
 paginate: 5 # amount of posts to show
