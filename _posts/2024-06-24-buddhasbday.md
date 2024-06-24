@@ -4,15 +4,14 @@ title:  "buddha's birthday"
 ---
 
 # 반야심경
-
+<br>
+<br>
 <iframe width="1102" height="620" src="https://www.youtube.com/embed/AtL84y-mmi8" title="군더더기 없이 깔끔한 20분 싱잉볼 명상 음악" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<br>
+<br>
 摩訶般若波羅蜜多心經
-
 마하반야바라밀다심경
-
 있는 그대로의 진리를 가리키는 핵심이 되는 말씀
-
 
 ​
 
