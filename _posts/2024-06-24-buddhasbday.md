@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "buddha's birthday"
+title:  "Buddha's birthday"
 ---
 
 # 반야심경
